@@ -1,9 +1,0 @@
-adding few commands here...
-git clone url
-cd clone2push
-touch f11
-vim touch f11 <vim editor opens --> esc i  --> add content --> esc :wq >
-git status
-git add f11
-git commit -m "f11 added"
-git push
